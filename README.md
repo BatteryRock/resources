@@ -1,3 +1,6 @@
+includes project bikehorn textures, credit to toonjoey: https://github.com/toonjoey/toontown-project-bikehorn
+
+
 Toontown Online Resources
 =============
 This repository contains the asset files extracted from the phase files of Disney's Toontown Online. Specifically, they were extracted from the phase files of the `sv1.0.47.38` release of Disney's Toontown Online.
